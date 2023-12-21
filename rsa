@@ -1,0 +1,2 @@
+gcc factors.c -o a
+./a $1
